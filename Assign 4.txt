@@ -1,0 +1,185 @@
+
+<div>
+  <main id="main-doc">
+    
+     <header id="header">
+  <nav id="navbar">
+    <header>
+    <h1><i class="fas fa-car-alt"></i> DarrBurr TravelZ <i class="fas fa-car-alt"></i></h1>
+    </header>
+    <a href="#CUDDALORE"class="nav-link">CUDDALORE</a>
+    <a href="#PONDICHERRY"class="nav-link">PONDICHERRY</a>
+    <a href="#CHENNAI"class="nav-link">CHENNAI</a>
+    <a href="#COIMBATORE"class="nav-link">COIMBATORE</a>
+    <a href="#MADURAI"class="nav-link">MADURAI</a>
+    <a href="#OOTY"class="nav-link">OOTY</a>
+   
+ </nav>
+    </header>      
+    <div id="sect">
+    <section class="main-section" id="CUDDALORE"> 
+      <header><strong><a id="link"  target="_blank" href="https://www.youtube.com/watch?v=4F1Xs8Jrvqo&list=PLgL0nNy2XyjqFeC0onWwiSlqHRBGzmW5_&index=26">CUDDALORE</a></strong></header>
+      <code> Hellow CUDDALORE Makkassss! </code>
+     
+      <p>
+        Cuddalore is the headquarters of the Cuddalore District in the Indian state of Tamil Nadu. Situated south of Chennai, Cuddalore was an important port during the British Raj. While the early history of Cuddalore remains unclear, the town first rose to prominence during Pallavas and Medieval Cholas' reign </p>
+      <p>En Ooru... !!!! Total Cost around Rs.4,000</p>
+            <ul>
+              <li>Kids - Allowed</li>
+              <li>Pets - Not Allowed</li>
+            </ul>
+      </section>
+    <section class="main-section"id="PONDICHERRY">
+      <header> <a  id="link" href="https://www.youtube.com/watch?v=QpuRDghzqqE">PONDICHERRY</a></header>
+      <code> Hellow PONDICHERRY Makkassss! </code>
+         
+      <p>
+        Pondicherry (or Puducherry), a French colonial settlement in India until 1954, is now a Union Territory town bounded by the southeastern Tamil Nadu state. Its French legacy is preserved in its French Quarter, with tree-lined streets, mustard-colored colonial villas and chic boutiques. A seaside promenade runs along the Bay of Bengal and passes several statues, including a 4m-high Gandhi Memorial.</p>
+      <p>Total Cost around Rs.5,000
+      </p>
+       <ul>
+              <li>Kids - Not Allowed</li>
+              <li>Pets - Not Allowed</li>
+            </ul>
+    </section>
+    <section class="main-section"id="CHENNAI">
+      <header> <a id="link" href="https://www.youtube.com/watch?v=AM_9bc2SYzg">CHENNAI</a></header>
+        <code> Hellow CHENNAI Makkassss! </code>
+      
+      <p>
+        Chennai, on the Bay of Bengal in eastern India, is the capital of the state of Tamil Nadu. The city is home to Fort St. George, built in 1644 and now a museum showcasing the city’s roots as a British military garrison and East India Company trading outpost, when it was called Madras. Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods, and St. Mary’s, a 17th-century Anglican church </p>
+      <p>Total Cost around Rs.8,000</p>
+       <ul>
+              <li>Kids - Allowed</li>
+              <li>Pets - Not Allowed</li>
+            </ul>
+    </section>
+    <section class="main-section"id="COIMBATORE">
+      <header><a id="link" href="https://www.youtube.com/watch?v=rkRXBh2U6bA">COIMBATORE</a></header>
+        <code> Hellow COIMBATORE Makkassss! </code>
+        
+      <p>
+        Coimbatore is a city in the south Indian state of Tamil Nadu. To the northwest is the centuries-old, Dravidian-style Arulmigu Subramaniyaswami Temple, Marudamalai. The colorful and intricately carved Arulmigu Patteeswarar Swamy Temple lies southeast of here. In the center, the Gass Forest Museum has a huge collection of preserved animals and tree trunks. Southeast, birds and butterflies inhabit Singanallur Lake</p>
+      <p>Total Cost around Rs.10,000
+      </p>
+       <ul>
+              <li>Kids - Allowed</li>
+              <li>Pets - Not Allowed</li>
+            </ul>
+    </section>
+    <section class="main-section"id="MADURAI">
+      <header><a id="link" href="https://www.youtube.com/watch?v=thiXQxWDwIY">MADURAI</a></header>
+        <code> Hellow MADURAI Makkassss! </code>
+         
+      <p>
+        Madurai is an energetic, ancient city on the Vaigai River in the South Indian state of Tamil Nadu. Its skyline is dominated by the 14 colorful gopurams (gateway towers) of Meenakshi Amman Temple. Covered in bright carvings of Hindu gods, the Dravidian-style temple is a major pilgrimage site. Millions attend the processions and ceremonies of April's Chithirai Festival celebrating Meenakshi and Lord Vishnu.</p>
+      <p>Total Cost around Rs.12,000
+      </p>
+       <ul>
+              <li>Kids - Allowed</li>
+              <li>Pets - Not Allowed</li>
+            </ul>
+    </section>
+    <section class="main-section"id="OOTY">
+       <header>OOTY</header>
+        <code> Hellow OOTY Makkassss! </code>
+          
+      <p>
+        Ooty (short for Udhagamandalam) is a resort town in the Western Ghats mountains, in southern India's Tamil Nadu state. Founded as a British Raj summer resort, it retains a working steam railway line. Other reminders of its colonial past include Stone House, a 19th-century residence, and the circa-1829 St. Stephen’s Church. Its 55-acre Government Botanical Garden lies on the slopes of Doddabetta Peak.</p>
+      <p>Total Cost around Rs.14,000
+      </p>
+       <ul>
+              <li>Kids - Allowed</li>
+              <li>Pets - Not Allowed</li>
+            </ul>
+    </section>
+  </main>
+</div>
+  </main>
+<footer><i class="fas fa-heart" style="color:red;"></i> IDHU KARTHI SENJADHU - CC 2021 <i class="fas fa-heart" style="color:red";></i>
+
+CSS
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+header{
+  text-align:center;
+  font-family:Encode Sans SC;
+}
+p{
+  font-family:Jost;
+  color:black;
+}
+h1{
+  top:0;
+  margin-top:0px;
+}
+
+#navbar{
+  width:100%;
+  height:40;
+
+}
+.nav-link{
+  margin-left:20px;
+  text-decoration:none;
+  color:black;
+}
+.nav-link:hover{
+text-decoration:underline;
+}
+section{
+  margin-top:10px;
+  text-align:center;
+  width:600px;
+  margin-left:500px;
+  margin-bottom:40px;
+  border-style: solid;
+  border-width: 1px;
+  padding:10px;
+  box-shadow: 5px 10px #888888;
+}
+.main-section #img{
+  left:0px;
+}
+ul{
+  font-family:Montserrat;
+  list-style:none;
+}
+body{
+   background-color:rgb(204, 204, 255);
+  
+}
+footer{
+  text-align:center;
+  font-family:Jost;
+  background-color:rgb(255, 255, 0);
+  position:relative;
+}
+#link{
+  text-decoration:none;
+}
+.main-section{
+  background-image:url("https://image.winudf.com/v2/image1/Y29tLnFhbmplcnVtYmkud2hpdGUud2hpdGViYWNrZ3JvdW5kX3NjcmVlbl8wXzE1NDE5NzAyMDlfMDQ0/screen-0.jpg?fakeurl=1&type=.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+@media only screen and (min-width:900px)
+{
+  #navbar{
+    top:0px;
+    left:0px;
+    position:fixed;
+    display:flex;
+    flex-direction:column;
+    text-align:left;
+    margin-left:0px;
+    padding:0px;
+    width:280px;
+    
+  }
+  h1{
+    text-align:left;
+  }
+}
+Assign- 4 link - https://codepen.io/pen?template=MJjpwO
